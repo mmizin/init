@@ -1,0 +1,15 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    08                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: nmizin <marvin@42.fr>                      +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/02/11 23:22:32 by nmizin            #+#    #+#              #
+#    Updated: 2018/02/11 23:26:46 by nmizin           ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+Answer: .ssh/authorized_keys
+		This file lists the public keys (DSA, ECDSA, Ed25519, RSA) that can be
+		 used for logging in as this user.

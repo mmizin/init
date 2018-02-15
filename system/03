@@ -1,0 +1,16 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    03                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: nmizin <marvin@42.fr>                      +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/02/11 22:55:13 by nmizin            #+#    #+#              #
+#    Updated: 2018/02/11 22:59:05 by nmizin           ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+Answer: /etc/hostname
+		Explanation: choose any text redactor (vim, nano, emacs)
+		and write next nano /etc/hostname
+		in file hostname replace ald name on new name

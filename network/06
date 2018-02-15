@@ -1,0 +1,17 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    06                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: nmizin <marvin@42.fr>                      +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/02/10 19:59:28 by nmizin            #+#    #+#              #
+/*   Updated: 2018/02/10 20:18:36 by nmizin           ###   ########.fr       */
+#                                                                              #
+# **************************************************************************** #
+
+Information we need we should get from resolver configuration (resolv.conf) file.
+Path to this file is "etc/resolv.conf"
+The resolv.conf file typically contains the IP addresses of nameservers
+(DNS name resolvers) that attempt to translate names into addresses for
+any node available on the network

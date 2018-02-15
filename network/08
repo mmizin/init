@@ -1,0 +1,15 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    07                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: nmizin <marvin@42.fr>                      +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/02/10 20:52:18 by nmizin            #+#    #+#              #
+#    Updated: 2018/02/10 20:58:04 by nmizin           ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+I'am using the comand dig slash16.org NS +noall +answer It gave me 
+names of servers. Then use comand whois <name server>. In field "Registrant" you 
+will see "Amazon Technologies, Inc". 
